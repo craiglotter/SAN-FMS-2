@@ -1,0 +1,8 @@
+SAN_Folder=D:\SAN
+SAN_Database=D:\SAN\Web\SAN Access\Database\SAN_Controller.mdb
+SAN_FileZilla=C:\Program Files\FileZilla Server\FileZilla server.exe
+SAN_XML=C:\Program Files\FileZilla Server\FileZilla Server.xml
+SAN_MailServer=mail.uct.ac.za
+SAN_FromAddress=com-webmaster@uct.ac.za
+SAN_ReportToAddress=com-webmaster@uct.ac.za
+SAN_ReportTime=00:00:05

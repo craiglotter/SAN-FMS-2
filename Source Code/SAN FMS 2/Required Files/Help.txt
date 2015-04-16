@@ -1,0 +1,19 @@
+Commerce IT runs Commerce SAN, a storage area network solution for the Commerce Faculty. SAN FMS 2 is a background application that runs on the server hosting the SAN and is responsible for the following tasks to occur 15 minutes:
+
+- Remove any invalid staff and student entries from the SAN controller database
+- Remove any orphaned account folders from the system
+- Create new account folders for any new accounts registered in the SAN controller database
+- Generate an updated FileZilla config XML document based on the updated database
+- Force FileZilla to reload its config page without restarting the server.
+- Notify New and Removed users of their status via email.
+
+In order to operate properly, you need to specify four variables, namely the SAN base folder, SAN database, FileZilla executable and the FileZilla User XML. These can all be specified by clicking on their relevant Browse button.
+
+You can manually force the sweep operation by clicking on the Force Sweep label and you can suspend operation by clicking on the Stop Timer button.
+
+The Activity Logs and Error Logs labels brings up their respective log folder when clicked.
+
+The about and help menu items brings up the about and help dialog screens respectively. The AutoUpdate option checks for any updates for this application.
+
+
+-- Last Updated: 30/01/2008 --

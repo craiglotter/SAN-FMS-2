@@ -1,0 +1,669 @@
+#03/10/2008 10:48:12 AM - Send Mail:com-webmaster@uct.ac.za: System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 393
+
+#03/10/2008 10:48:25 AM - Send Mail:com-webmaster@uct.ac.za: System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 393
+
+#03/10/2008 10:56:36 AM - Send Mail:com-webmaster@uct.ac.za: System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 401
+
+#03/10/2008 10:56:36 AM - Send Mail:com-webmaster@uct.ac.za: System.Web.HttpException: The message could not be sent to the SMTP server. The transport error code was 0x800ccc13. The server response was not available
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040211): The message could not be sent to the SMTP server. The transport error code was 0x800ccc13. The server response was not available
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 401
+
+#03/10/2008 11:11:19 AM - Send Mail:com-webmaster@uct.ac.za: System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 401
+
+#03/10/2008 11:11:39 AM - Send Mail:com-webmaster@uct.ac.za: System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 401
+
+#03/10/2008 11:12:19 AM - Send Mail:com-webmaster@uct.ac.za: System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 401
+
+#03/10/2008 11:12:32 AM - Send Mail:com-webmaster@uct.ac.za: System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 401
+
+#03/10/2008 11:16:03 AM - Send Mail:com-webmaster@uct.ac.za: System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 401
+
+#03/10/2008 11:16:08 AM - Send Mail:com-webmaster@uct.ac.za: System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 401
+
+#03/10/2008 11:18:53 AM - Send Mail:com-webmaster@uct.ac.za: System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:23:59 AM - Send Mail :com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:25:40 AM - Send Mail :com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:25:48 AM - Check Valid Database Entries: System.Data.OleDb.OleDbException: No error message available, result code: DB_SEC_E_AUTH_FAILED(0x80040E4D).
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at SAN_FMS_2.Main_Screen.CheckValidDatabaseEntries() in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 1050
+
+#03/10/2008 11:25:50 AM - Remove Orphaned Folders: System.Data.OleDb.OleDbException: No error message available, result code: DB_SEC_E_AUTH_FAILED(0x80040E4D).
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at SAN_FMS_2.Main_Screen.RemoveOrphanedFolders() in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 963
+
+#03/10/2008 11:25:57 AM - Create New User Folders: System.Data.OleDb.OleDbException: No error message available, result code: DB_SEC_E_AUTH_FAILED(0x80040E4D).
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at SAN_FMS_2.Main_Screen.CreateNewUserFolders() in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 916
+
+#03/10/2008 11:25:58 AM - Updating Database User Stats: System.Data.OleDb.OleDbException: No error message available, result code: DB_SEC_E_AUTH_FAILED(0x80040E4D).
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at SAN_FMS_2.Main_Screen.UpdateDatabaseUserStats() in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 1182
+
+#03/10/2008 11:25:59 AM - Updating "Last Scan" Variable: System.Data.OleDb.OleDbException: No error message available, result code: DB_SEC_E_AUTH_FAILED(0x80040E4D).
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at SAN_FMS_2.Main_Screen.UpdateLastScanVariable() in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 1135
+
+#03/10/2008 11:26:20 AM - Send Mail :com-webmaster@uct.ac.za (Application Shutdown): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:27:41 AM - Send Mail :com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:27:53 AM - Send Mail :com-webmaster@uct.ac.za (Application Shutdown): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:32:09 AM - Send Mail :com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:32:30 AM - Send Mail :com-webmaster@uct.ac.za (Application Shutdown): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:33:06 AM - Send Mail :com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:33:21 AM - Send Mail :com-webmaster@uct.ac.za (Application Shutdown): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:34:27 AM - Send Mail :com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:34:43 AM - Send Mail :com-webmaster@uct.ac.za (Application Shutdown): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:35:25 AM - Send Mail :com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:38:02 AM - Send Mail :com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:43:08 AM - Send Mail: com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:46:34 AM - Send Mail: com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 404
+
+#03/10/2008 11:48:59 AM - Send Mail: com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:49:32 AM - Send Mail: com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:49:41 AM - Send Report Mail: com-webmaster@uct.ac.za (Send Report): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.Send_Report(DateTime dt, String FileNamePrefix) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 446
+
+#03/10/2008 11:49:56 AM - Send Mail: com-webmaster@uct.ac.za (Application Shutdown): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:52:03 AM - Send Mail: com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:52:36 AM - Send Mail: com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:52:40 AM - Send Report Mail: com-webmaster@uct.ac.za (Send Report): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.Send_Report(DateTime dt, String FileNamePrefix) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 442
+
+#03/10/2008 11:52:45 AM - Send Mail: com-webmaster@uct.ac.za (Application Shutdown): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 11:54:53 AM - Send Mail: com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 12:00:05 PM - Send Mail: com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 12:00:34 PM - Send Mail: com-webmaster@uct.ac.za (Application Shutdown): System.Web.HttpException: The message could not be sent to the SMTP server. The transport error code was 0x800ccc13. The server response was not available
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040211): The message could not be sent to the SMTP server. The transport error code was 0x800ccc13. The server response was not available
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 12:01:00 PM - Send Mail: com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 12:01:04 PM - Send Report Mail: com-webmaster@uct.ac.za (Send Report): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.Send_Report(DateTime dt, String FileNamePrefix) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 445
+
+#03/10/2008 12:01:39 PM - Send Mail: com-webmaster@uct.ac.za (Application Shutdown): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 12:02:51 PM - Send Mail: com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 12:02:54 PM - Send Report Mail: com-webmaster@uct.ac.za (Send Report): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.Send_Report(DateTime dt, String FileNamePrefix) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 449
+
+#03/10/2008 12:03:11 PM - Send Mail: com-webmaster@uct.ac.za (Application Shutdown): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 12:10:24 PM - Send Mail: com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 12:10:39 PM - Send Report Mail: com-webmaster@uct.ac.za (Send Report): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.Send_Report(DateTime dt, String FileNamePrefix) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 449
+
+#03/10/2008 12:11:00 PM - Send Mail: com-webmaster@uct.ac.za (Application Shutdown): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 403
+
+#03/10/2008 12:14:47 PM - Send Mail: com-webmaster@uct.ac.za (Application Startup): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 406
+
+#03/10/2008 12:15:00 PM - Send Mail: com-webmaster@uct.ac.za (Application Shutdown): System.Web.HttpException: The transport failed to connect to the server.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Runtime.InteropServices.COMException (0x80040213): The transport failed to connect to the server.
+
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   --- End of inner exception stack trace ---
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at SAN_FMS_2.Main_Screen.TextMail(String SmtpServer, String strFrom, String strTo, String strSubj, String strBody, String requestidentifier, String& strErrMsg) in C:\Work Projects\Completed Projects\SAN FMS 2 - 26 January 2008\Source Code\SAN FMS 2\Main_Screen.vb:line 406
+

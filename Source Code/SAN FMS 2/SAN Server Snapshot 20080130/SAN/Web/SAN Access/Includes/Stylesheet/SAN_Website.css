@@ -1,0 +1,19 @@
+TABLE {
+font-family: Arial;
+font-size: 10pt;
+}
+
+h1 { FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #351500; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif }
+h2 { FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #722D00; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif }
+h3 { FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #351500; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif }
+
+p  { font-family: Verdana, Tahoma, Arial; color: #000000; font-weight: normal; font-size: 10pt }
+td  { font-family: Verdana, Tahoma, Arial; color: #000000; font-weight: normal; font-size: 10pt }
+
+a:link  { font-family: Verdana, Tahoma, Arial; color: #0000FF; font-weight: normal; text-decoration: none; font-size: 10pt }
+a:visited  { font-family: Verdana, Tahoma, Arial; color: #0000FF; font-weight: normal; text-decoration: none; font-size: 10pt }
+a:hover  { font-family: Verdana, Tahoma, Arial; color: #800080; font-weight: normal; text-decoration: none; font-size: 10pt }
+
+a.func:link  { font-family: Verdana, Tahoma, Arial; color: #CCCCCC; font-weight: normal; text-decoration: none; font-size: 7.85pt }
+a.func:visited  { font-family: Verdana, Tahoma, Arial; color: #CCCCCC; font-weight: normal; text-decoration: none; font-size: 7.85pt }
+a.func:hover  { font-family: Verdana, Tahoma, Arial; color: #000000; font-weight: normal; text-decoration: none; font-size: 7.85pt }
